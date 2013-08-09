@@ -1,0 +1,8 @@
+Following steps are required to integrate the Gadget java code with fmmc matlab code.
+
+1. Matlab's java server has to be running in order to accept requests from Gadget's jvm. I use a software called jamal to accomplish this. Download the jamal-2.2.jar here - http://matlab4java.wordpress.com/download and run com.jamal.server.MatlabServer (from Matlab)
+2. Place the fmmc code in the same directory where jamal server is running. 
+3. Add the jamal-2.2.jar into the classpath of Gadget.
+4. Replace the GadgerProtocol.java file with the one attached and recompile, run.
+
+(also additionally, might have to install cvx for matlab and also change the directory parameter for one of the MatlabClient calls in GadgetSVM of jamal API)
