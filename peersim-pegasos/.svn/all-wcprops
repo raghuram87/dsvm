@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/Proj/DSVM/!svn/ver/23/peersim-pegasos
+END
+intervals_ip
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Proj/DSVM/!svn/ver/9/peersim-pegasos/intervals_ip
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Proj/DSVM/!svn/ver/9/peersim-pegasos/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Proj/DSVM/!svn/ver/9/peersim-pegasos/.project
+END
+testClassification.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Proj/DSVM/!svn/ver/21/peersim-pegasos/testClassification.sh
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Proj/DSVM/!svn/ver/9/peersim-pegasos/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Proj/DSVM/!svn/ver/9/peersim-pegasos/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Proj/DSVM/!svn/ver/12/peersim-pegasos/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Proj/DSVM/!svn/ver/19/peersim-pegasos/build.xml
+END
