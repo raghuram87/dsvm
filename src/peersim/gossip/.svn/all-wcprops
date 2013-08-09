@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Proj/DSVM/!svn/ver/23/peersim-pegasos/src/peersim/gossip
+END
+DummyObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Proj/DSVM/!svn/ver/9/peersim-pegasos/src/peersim/gossip/DummyObserver.java
+END
+TestClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Proj/DSVM/!svn/ver/23/peersim-pegasos/src/peersim/gossip/TestClassifier.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Proj/DSVM/!svn/ver/18/peersim-pegasos/src/peersim/gossip/Debug.java
+END
+PegasosNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Proj/DSVM/!svn/ver/18/peersim-pegasos/src/peersim/gossip/PegasosNode.java
+END
+FinalControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Proj/DSVM/!svn/ver/9/peersim-pegasos/src/peersim/gossip/FinalControl.java
+END
+GadgetProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Proj/DSVM/!svn/ver/22/peersim-pegasos/src/peersim/gossip/GadgetProtocol.java
+END
